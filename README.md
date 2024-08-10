@@ -4,9 +4,9 @@ This project implements a deep learning model for audio classification using Ten
 
 Features:
 
-Leverages TensorFlow for efficient deep learning operations.
-Converts audio files to waveforms and spectrograms.
-Utilizes CNN architecture for feature extraction and classification.
-Employs a sliding window technique for capturing local patterns in audio data.
+-> Leverages TensorFlow for efficient deep learning operations.
+-> Converts audio files to waveforms and spectrograms.
+-> Utilizes CNN architecture for feature extraction and classification.
+-> Employs a sliding window technique for capturing local patterns in audio data.
 
 
